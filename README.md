@@ -1,7 +1,7 @@
 # docuraDaFada
 > Status: finished.
 
-#### Website for my mother ♥. (Developed by me with help from Rocketseat)
+<p> Website for my mother ♥. (Developed by me with help from Rocketseat)</p>
 
 #### Technologies used:
 <ul> 

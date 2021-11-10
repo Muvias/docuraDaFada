@@ -302,6 +302,8 @@ nav.show div.icon-close{
 #testimonials .container{
   margin-left: 0;
   margin-right: 0;
+  position: relative;
+  overflow: hidden;
 }
 #testimonials header{
   margin-left: 1.5rem;
